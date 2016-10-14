@@ -10,11 +10,8 @@ Canoe Sprint
 Cycling Mountain Bike
 Cycling Road
 Cycling Track
-<<<<<<< HEAD
 Diving
 Dodgw Ball
-=======
->>>>>>> origin/my-new-tokyo-offer
 Equestrian
 Fencing
 Football
